@@ -1,2 +1,2 @@
 # Crud-QueryBuilder
-Php component for more comfortable work with database, which realise crud - methods
+PHP component for more comfortable work with database, which realize crud - methods
